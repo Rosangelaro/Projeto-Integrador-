@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt" dir="ltr">
+<head>
+
+  <link rel="stylesheet" href="Style.css">
+
+  <meta charset="utf-8">
+
+  <Meta name="author" content="Rosangela">
+
+<meta name="viewport" content="widht=device-widht,initial-scale=1.0">
+
+  <title>Projeto Programar</title>
+
+</head>
+
+<body>
+
+
+  <header>
+
+    <h1>Projeto Programando para o Futuro</h1>
+
+  </header>
+
+  <nav>
+
+    <a href="index.html">SCRATCH BÁSICO</a>
+    <a href="AVANÇADO.html">SCRATCH AVANÇADO</a>
+    <a href="basico.html">PYTHON BÁSICO</a>
+    <a href="INTERMEDIÁRIO.html">PYTHON INTERMEDIÁRIO</a>
+    <a href="web.html">PROGRAMADOR WEB BÁSICO</a>
+
+
+  </nav>
+
+
+  <img class="teste 1"= src="logo.jpg" alt="logo" width: "50vw" height="450" >
+
+  <article>

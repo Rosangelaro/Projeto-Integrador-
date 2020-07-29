@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt" dir="ltr">
+<head>
+
+  <link rel="stylesheet" href="Style.css">
+
+  <meta charset="utf-8">
+
+    <title>Projeto Programar</title>
+
+</head>
+
+<body>
+
+  <header>
+
+    <h1>Projeto Programando para o Futuro</h1>
+
+  </header>
+
+  <nav>
+
+    <a href="index.html">Principal</a>
+    <a href="tres.html">Scratch Avançado</a>
+    <a href="web.html">Programador Web Basico</a>
+  </nav>
+
+
+  <img class="teste 1"= src="logo.jpg" alt="logo" width: "50vw" height="450" >
+
+  <article>
+
+    <h2>Scratch Basico e Scratch Avançado</h2>
+
+    <p>O Simplicode faz uma introdução à ciência da computação usando a
+      programação baseada em blocos, chamada Scratch. O curso foca em event
+       listeners, loops, condicionais, entrada do usuário, coordenadas cartesianas,
+       variáveis e transmissão de mensagem. Exercitamos bastante o raciocínio
+       lógico, resolução de problemas e criatividade</p>

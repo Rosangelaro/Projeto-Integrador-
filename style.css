@@ -1,0 +1,178 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose&family=Rowdies:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+html* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  margin: 5px;
+  padding:5px;
+
+}
+
+h1{
+background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+font-family: 'Ranchers';
+  border-top: 40px solid orange;
+  border-bottom: 40px solid orange;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 60px;
+  padding: 28px 24px;
+}
+.teste{
+        display: block;
+        margin:  auto;
+
+      }
+  nav{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    font-family: 'Shadows Into Light'
+
+  }
+  nav > a {
+    border-bottom: 2px solid #bbb;
+    color: green;
+    font-size: 24px;
+    padding: 30px 10px
+    text-decoration:none;
+    text-align: center;
+    transition: all 0.4s;
+  }
+  nav > a:hover{
+    display: grid;
+    grid-template-columns: 80px;
+    grid-template-rows: 24px;
+    background-color: orange;
+      border-top: 40px;
+
+  }
+img{
+    box-shadow: 16px 16px 16px #424242;
+    margin: 24px;
+    max-width: 100%;
+
+  }
+h2
+{
+  border-bottom: 40px solid
+  background-position: top;
+  border-top: 40px;
+text-decoration: underline;
+  text-align: center;
+color: pink;
+font-family: 'Ranchers';
+margin: 30px;
+letter-spacing: 2px;
+}
+
+p
+{
+  font-size: 18 px;
+  line-height: 24px;
+  margin-bottom: 24px;
+  color: blue;
+  text-align: "justify";
+  border: "solid";
+  margin:60px;
+  font-family: 'Indie Flower';
+}
+
+.um{
+  color: #ffde03;
+  font-family: 'Ranchers';
+
+
+}
+.dois{
+color: #0336ff;
+font-family: 'Ranchers';
+}
+.tres{
+color:  #A2F934;
+font-family: 'Ranchers';
+}
+.quatro{
+color:  #CE11FD;
+font-family: 'Ranchers';
+
+}
+.cinco{
+color:  #FFB7B2;
+font-family: 'Ranchers';
+}
+.seis{
+color:  #00A4FD;
+font-family: 'Ranchers';
+}
+.cor{
+  color: #8AF922;
+  margin: 5%;
+  font-family: 'Indie Flower';
+}
+
+.fim{
+  background-color: orange;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+font-family:'Rowdies';
+  border-top: 10px solid orange;
+  border-bottom: 10px solid orange;
+  text-align: center;
+}
+.roxo{
+background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+font-family:'Indie Flower';
+text-align: center;
+font-size: 60px;
+
+}
+.grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 95% 95% 95%;
+  grid-gap: 20px;
+  border-radius: 30px;
+    color: blue;
+}
+.heroi{
+  font-size: 20px;
+  line-height: 20px;
+  margin-bottom: 14px;
+  color: white;
+  text-align: justify;
+font-family: 'Indie Flower';
+
+}
+.cartao{
+  background-color: blue;
+  border: 2px solid #ccc;
+  border-radius: 28px;
+  padding: 5px;
+}
+
+.self{
+
+  max-width: 90%;
+  max-height: 80%;
+}
+.nove{
+  background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+  font-size: 40px;
+  color:  #CE11FD;
+  font-family: 'Indie Flower';
+}
